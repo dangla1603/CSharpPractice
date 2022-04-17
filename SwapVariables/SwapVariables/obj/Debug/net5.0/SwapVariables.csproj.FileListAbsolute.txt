@@ -1,0 +1,16 @@
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\bin\Debug\net5.0\SwapVariables.exe
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\bin\Debug\net5.0\SwapVariables.deps.json
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\bin\Debug\net5.0\SwapVariables.runtimeconfig.json
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\bin\Debug\net5.0\SwapVariables.runtimeconfig.dev.json
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\bin\Debug\net5.0\SwapVariables.dll
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\bin\Debug\net5.0\SwapVariables.pdb
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\SwapVariables.csproj.AssemblyReference.cache
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\SwapVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\SwapVariables.AssemblyInfoInputs.cache
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\SwapVariables.AssemblyInfo.cs
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\SwapVariables.csproj.CoreCompileInputs.cache
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\SwapVariables.dll
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\refint\SwapVariables.dll
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\SwapVariables.pdb
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\SwapVariables.genruntimeconfig.cache
+C:\Users\dangl\Desktop\C# Practice\SwapVariables\SwapVariables\obj\Debug\net5.0\ref\SwapVariables.dll
