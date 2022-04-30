@@ -11,5 +11,8 @@ On this application should:
     - Search for contracts by given name
 
 
-![image](https://user-images.githubusercontent.com/43182305/166093464-0034f441-aac4-4d60-950e-f97566477ee1.png)
+![image](https://user-images.githubusercontent.com/43182305/166093528-3e6fcbea-68b0-4746-80e8-45c6e594be96.png)
+
+
+There are 5 choices [1-5] that user can choose. If user choose option out of range, the application will print out " wrong input " and reset the menu.
 
