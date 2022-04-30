@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\SwapVariables\\SwapVariables\\SwapVariables.csproj": {}
+    "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\Variables\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\SwapVariables\\SwapVariables\\SwapVariables.csproj": {
+    "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\Variables\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\SwapVariables\\SwapVariables\\SwapVariables.csproj",
-        "projectName": "SwapVariables",
-        "projectPath": "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\SwapVariables\\SwapVariables\\SwapVariables.csproj",
+        "projectUniqueName": "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\Variables\\Variables\\Variables.csproj",
+        "projectName": "Variables",
+        "projectPath": "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\Variables\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\dangl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\SwapVariables\\SwapVariables\\obj\\",
+        "outputPath": "C:\\Users\\dangl\\Desktop\\C# Practice\\CSharpPractice\\Variables\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dangl\\AppData\\Roaming\\NuGet\\NuGet.Config",

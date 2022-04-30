@@ -1,0 +1,16 @@
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\bin\Debug\net5.0\PhoneContract.exe
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\bin\Debug\net5.0\PhoneContract.deps.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\bin\Debug\net5.0\PhoneContract.runtimeconfig.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\bin\Debug\net5.0\PhoneContract.runtimeconfig.dev.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\bin\Debug\net5.0\PhoneContract.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\bin\Debug\net5.0\PhoneContract.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\PhoneContract.csproj.AssemblyReference.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\PhoneContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\PhoneContract.AssemblyInfoInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\PhoneContract.AssemblyInfo.cs
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\PhoneContract.csproj.CoreCompileInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\PhoneContract.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\refint\PhoneContract.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\PhoneContract.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\PhoneContract.genruntimeconfig.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PhoneContract\PhoneContract\obj\Debug\net5.0\ref\PhoneContract.dll
