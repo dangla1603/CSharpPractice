@@ -9,3 +9,7 @@ On this application should:
     - Display a contract by name ( or number)
     - View all contracts
     - Search for contracts by given name
+
+
+![image](https://user-images.githubusercontent.com/43182305/166093464-0034f441-aac4-4d60-950e-f97566477ee1.png)
+
