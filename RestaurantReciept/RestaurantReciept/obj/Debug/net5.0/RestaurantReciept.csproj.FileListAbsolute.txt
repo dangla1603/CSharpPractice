@@ -1,0 +1,16 @@
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\bin\Debug\net5.0\RestaurantReciept.exe
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\bin\Debug\net5.0\RestaurantReciept.deps.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\bin\Debug\net5.0\RestaurantReciept.runtimeconfig.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\bin\Debug\net5.0\RestaurantReciept.runtimeconfig.dev.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\bin\Debug\net5.0\RestaurantReciept.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\bin\Debug\net5.0\RestaurantReciept.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\RestaurantReciept.csproj.AssemblyReference.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\RestaurantReciept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\RestaurantReciept.AssemblyInfoInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\RestaurantReciept.AssemblyInfo.cs
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\RestaurantReciept.csproj.CoreCompileInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\RestaurantReciept.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\refint\RestaurantReciept.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\RestaurantReciept.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\RestaurantReciept.genruntimeconfig.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantReciept\RestaurantReciept\obj\Debug\net5.0\ref\RestaurantReciept.dll
