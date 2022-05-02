@@ -1,0 +1,16 @@
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\bin\Debug\net5.0\BookLibrary.exe
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\bin\Debug\net5.0\BookLibrary.deps.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\bin\Debug\net5.0\BookLibrary.runtimeconfig.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\bin\Debug\net5.0\BookLibrary.runtimeconfig.dev.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\bin\Debug\net5.0\BookLibrary.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\bin\Debug\net5.0\BookLibrary.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\BookLibrary.AssemblyInfo.cs
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\BookLibrary.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\refint\BookLibrary.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\BookLibrary.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\BookLibrary.genruntimeconfig.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BookLibrary\BookLibrary\obj\Debug\net5.0\ref\BookLibrary.dll
