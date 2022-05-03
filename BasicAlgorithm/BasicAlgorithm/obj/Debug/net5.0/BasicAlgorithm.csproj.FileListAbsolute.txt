@@ -1,0 +1,16 @@
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\bin\Debug\net5.0\BasicAlgorithm.exe
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\bin\Debug\net5.0\BasicAlgorithm.deps.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\bin\Debug\net5.0\BasicAlgorithm.runtimeconfig.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\bin\Debug\net5.0\BasicAlgorithm.runtimeconfig.dev.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\bin\Debug\net5.0\BasicAlgorithm.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\bin\Debug\net5.0\BasicAlgorithm.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\BasicAlgorithm.csproj.AssemblyReference.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\BasicAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\BasicAlgorithm.AssemblyInfoInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\BasicAlgorithm.AssemblyInfo.cs
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\BasicAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\BasicAlgorithm.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\refint\BasicAlgorithm.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\BasicAlgorithm.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\BasicAlgorithm.genruntimeconfig.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\BasicAlgorithm\BasicAlgorithm\obj\Debug\net5.0\ref\BasicAlgorithm.dll
