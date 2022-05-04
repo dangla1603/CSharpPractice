@@ -70,6 +70,31 @@ namespace BasicAlgorithm
             Console.WriteLine(checkForChar.ThisChar("babaaba"));
             Console.WriteLine(checkForChar.ThisChar("aaaaa"));
             Console.WriteLine("------------------------");
+
+            //Using For loop
+            //display the pattern like right angle triangle using an asterisk
+            RightAngleTriangle rightAngleTriangle = new RightAngleTriangle();
+            rightAngleTriangle.NumberAngle(5);
+            rightAngleTriangle.AngleWithNumber(5);
+            rightAngleTriangle.AngleWithSameNumber(5);
+            rightAngleTriangle.AngleIncreaseByOne(4);
+            Console.WriteLine("------------------------");
+
+            //make such a pattern like a pyramid with an asterisk
+            Pyramid pyramid = new Pyramid();
+            pyramid.PyramidWithStars(5);
+            Console.WriteLine("------------------------");
+
+
+            //calculate the factorial of a given number
+            FactorialNumber factorialNumber = new FactorialNumber();
+            factorialNumber.InputNumber(5);
+            Console.WriteLine("------------------------");
+
+            //to display the n terms of even natural number and their sum
+            FindEvenNumber findEvenNumber = new FindEvenNumber();
+            findEvenNumber.TotalEvenNumber(10);
+            Console.WriteLine("------------------------");
         }
     }
 }
