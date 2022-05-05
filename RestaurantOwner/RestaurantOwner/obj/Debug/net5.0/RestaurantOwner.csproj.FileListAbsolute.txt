@@ -1,0 +1,16 @@
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\bin\Debug\net5.0\RestaurantOwner.exe
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\bin\Debug\net5.0\RestaurantOwner.deps.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\bin\Debug\net5.0\RestaurantOwner.runtimeconfig.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\bin\Debug\net5.0\RestaurantOwner.runtimeconfig.dev.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\bin\Debug\net5.0\RestaurantOwner.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\bin\Debug\net5.0\RestaurantOwner.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\RestaurantOwner.csproj.AssemblyReference.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\RestaurantOwner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\RestaurantOwner.AssemblyInfoInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\RestaurantOwner.AssemblyInfo.cs
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\RestaurantOwner.csproj.CoreCompileInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\RestaurantOwner.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\refint\RestaurantOwner.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\RestaurantOwner.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\RestaurantOwner.genruntimeconfig.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\RestaurantOwner\RestaurantOwner\obj\Debug\net5.0\ref\RestaurantOwner.dll
