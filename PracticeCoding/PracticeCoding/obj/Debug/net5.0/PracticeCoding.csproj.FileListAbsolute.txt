@@ -1,0 +1,16 @@
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\bin\Debug\net5.0\PracticeCoding.exe
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\bin\Debug\net5.0\PracticeCoding.deps.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\bin\Debug\net5.0\PracticeCoding.runtimeconfig.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\bin\Debug\net5.0\PracticeCoding.runtimeconfig.dev.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\bin\Debug\net5.0\PracticeCoding.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\bin\Debug\net5.0\PracticeCoding.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\PracticeCoding.csproj.AssemblyReference.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\PracticeCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\PracticeCoding.AssemblyInfoInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\PracticeCoding.AssemblyInfo.cs
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\PracticeCoding.csproj.CoreCompileInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\PracticeCoding.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\refint\PracticeCoding.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\PracticeCoding.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\PracticeCoding.genruntimeconfig.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PracticeCoding\PracticeCoding\obj\Debug\net5.0\ref\PracticeCoding.dll
