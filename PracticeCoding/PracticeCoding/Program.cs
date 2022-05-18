@@ -32,7 +32,32 @@ namespace PracticeCoding
 
         static void Main(string[] args)
         {
+            /// </summary>
+            /// Question 1
+            /// because string is immutable so we need to use .ToCharArray() method to convert string into charArray
+            /// using for loop to loop through each char of the array
+            /// </summary>
+            QuestionOne answerOne = new QuestionOne();
+            answerOne.ReverseString("Hello");
 
+            /// </summary>
+            /// Question 2
+            /// Definition of Palindrome that is a word or sequence that reads the same backward as forward
+            /// example: madam , racecar
+            /// to solve this problem, we need to use given string, reverse it using for loop and store it into temp variable
+            /// then we compare the original value with temp variable, if they are equal then the string is Palindrome
+            /// </summary>
+            QuestionTwo answerTwo = new QuestionTwo();
+            answerTwo.Palindrome("madam");
+            answerTwo.Palindrome("Father");
+
+              
+
+            // the method to indicate even or odd numbers from the list
+            // if list has even number, add 1
+            // if list has odd number, add 3
+            // if list has number 8 , add 5
+            // print out total count
             int[] a = new int[] {8,8} ;
 
             Console.WriteLine(find_total(a));
