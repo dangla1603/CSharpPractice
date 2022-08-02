@@ -1,0 +1,16 @@
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\PredictNumber.csproj.AssemblyReference.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\PredictNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\PredictNumber.AssemblyInfoInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\PredictNumber.AssemblyInfo.cs
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\PredictNumber.csproj.CoreCompileInputs.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\bin\Debug\net5.0\PredictNumber.exe
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\bin\Debug\net5.0\PredictNumber.deps.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\bin\Debug\net5.0\PredictNumber.runtimeconfig.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\bin\Debug\net5.0\PredictNumber.runtimeconfig.dev.json
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\bin\Debug\net5.0\PredictNumber.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\bin\Debug\net5.0\PredictNumber.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\PredictNumber.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\refint\PredictNumber.dll
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\PredictNumber.pdb
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\PredictNumber.genruntimeconfig.cache
+C:\Users\dangl\Desktop\C# Practice\CSharpPractice\PredictNumber\PredictNumber\obj\Debug\net5.0\ref\PredictNumber.dll
