@@ -38,7 +38,9 @@ namespace PracticeCoding
             /// using for loop to loop through each char of the array
             /// </summary>
             QuestionOne answerOne = new QuestionOne();
+            Console.WriteLine("Answer for Question 1 is: ");
             answerOne.ReverseString("Hello");
+            Console.WriteLine("-----------------------------");
 
             /// </summary>
             /// Question 2
@@ -48,11 +50,52 @@ namespace PracticeCoding
             /// then we compare the original value with temp variable, if they are equal then the string is Palindrome
             /// </summary>
             QuestionTwo answerTwo = new QuestionTwo();
+            Console.WriteLine("Answer for Question 2 is: ");
             answerTwo.Palindrome("madam");
             answerTwo.Palindrome("Father");
+            Console.WriteLine("-----------------------------");
 
-              
-
+            /// </summary>
+            /// Question 10
+            /// To solve this problem. We know 0 and 1 is not prime, so we need condition to check if the number is equal 0 or 1,
+            /// if yes, we stop. if not, we move to next step. At this step, we will use for loop, we know the number is prime if it has 1 and
+            /// number itself which is 2. so if the given number % the increment number from for loop = 2 -> that number is prime
+            /// 
+            /// </summary>
+            QuestionTen answerTen = new QuestionTen();
+            Console.WriteLine("Answer for Question 10 is: ");
+            int test1 = 3;
+            int test2 = 2;
+            if (answerTen.IsPrime(test1))
+            {
+                Console.WriteLine("It is Prime");
+            }
+            else
+            {
+                Console.WriteLine("Not Prime");
+            }
+            if (answerTen.IsPrime(test2))
+            {
+                Console.WriteLine("It is Prime");
+            }
+            else
+            {
+                Console.WriteLine("Not Prime");
+            }
+            
+            Console.WriteLine("-----------------------------");
+            /// </summary>
+            /// Question 12
+            /// To solve this problem. First, we need to initial Largest = 0 & SecondLargest = 0, then we use for loop to loop through the length
+            /// Of the array. We set the condition, if current index > largest, we will initial the current secondLargest to current Largest and 
+            /// current largest will equal to current index and so on. We also need another condition to see if the current index is larger than 
+            /// current secondLargest and smaller than current Largest.
+            /// </summary>
+            QuestionTwelve answerTwelve = new QuestionTwelve();
+            int[] thisInt = { 5,3,4 };
+            Console.WriteLine("Answer for Question 12 is: ");
+            answerTwelve.SecondLarge(thisInt);
+            Console.WriteLine("-----------------------------");
             // the method to indicate even or odd numbers from the list
             // if list has even number, add 1
             // if list has odd number, add 3
@@ -60,7 +103,7 @@ namespace PracticeCoding
             // print out total count
             int[] a = new int[] {8,8} ;
 
-            Console.WriteLine(find_total(a));
+            
 
         }
 
